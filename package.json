@@ -1,0 +1,25 @@
+{
+  "name": "suneosay",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbtaro/suneosay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wbtaro/suneosay/issues"
+  },
+  "homepage": "https://github.com/wbtaro/suneosay",
+  "author": "wbtaro",
+  "license": "ISC",
+  "bin": {
+    "suneosay": "./suneosay.js"
+  },
+  "dependencies": {
+    "eastasianwidth": "^0.2.0",
+    "optimist": "^0.6.1"
+  }
+}
